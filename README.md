@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h2 align="center">ALicudi - Card in Hover</h2>
+  <h2 align="center">Alicudi - Card in Hover</h2>
 
 </div>
 
