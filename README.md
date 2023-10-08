@@ -1,4 +1,13 @@
-# Profile Card Hover Effect
+<div align="center">
+  
+  <h2 align="center">ALicudi - Card in Hover</h2>
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/petegarvin1/pen/YzWBbRx](https://codepen.io/petegarvin1/pen/YzWBbRx).
+</div>
 
+<br />
+
+### Demo Screeshots
+
+![Simona Portfolio Desktop Demo](./readme-images/alicudiInHover.png "Desktop Demo")
+
+!(./readme-images/alicudiInHover.png)
