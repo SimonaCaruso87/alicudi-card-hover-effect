@@ -9,5 +9,3 @@
 ### Demo Screeshots
 
 ![Simona Portfolio Desktop Demo](./readme-images/alicudiInHover.png "Desktop Demo")
-
-!(./readme-images/alicudiInHover.png)
